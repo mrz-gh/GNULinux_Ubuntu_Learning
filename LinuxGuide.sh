@@ -21,3 +21,12 @@ bat
 # Editing a file 
 nano
 vi # vim
+
+
+# Environment Variables
+env
+unset
+
+# Working with Processes
+ps -e
+sudo kill -KILL $pid
