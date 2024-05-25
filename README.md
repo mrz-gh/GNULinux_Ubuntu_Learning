@@ -13,3 +13,6 @@ This is a repository for GNU/Linux self-learning
 # SW packages
 - rpm   : Red Hat Package Manager
 - deb   : debian-based distributions ==> e.g. Ubuntu 
+
+
+- EPEL repo for dnf and yum package manager is filtered (or under sanction) in Iran.
